@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... `Anything!`
 - 📫 How to reach me: ... Discord:0xRar#4432 , [Instagram](https://www.instagram.com/fcv9/) , [Twitter](https://twitter.com/fcv9_q)
 - 😄 Pronouns: `He/Him`
-- ⚡ Fun fact: `I'm still young, and i will keep learning`
+- ⚡ Fun fact: `I'm still young, i will keep learning`

@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... `Web Based Projects`
 - 🤔 I’m looking for help with ... `Nothing at the moment`
 - 💬 Ask me about ... `Anything!`
-- 📫 How to reach me: ... Discord:0xRar#4432 , [Instagram](https://www.instagram.com/fcv9/) , [Twitter](https://twitter.com/fcv9_q)
+- 📫 How to reach me: ... `Discord:0xRar#4432` , [Instagram](https://www.instagram.com/fcv9/) , [Twitter](https://twitter.com/fcv9_q)
 - 😄 Pronouns: `He/Him`
 - ⚡ Fun fact: `I'm still young, i will keep learning`

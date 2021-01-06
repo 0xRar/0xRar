@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... `Hackathon Project`
+- 🔭 I’m currently working on ... `Nothing`
 - 🌱 I’m currently learning ... `Java , PHP , C# , Cyber Sec`
 - 👯 I’m looking to collaborate on ... `Web Based Projects`
 - 🤔 I’m looking for help with ... `Nothing at the moment`

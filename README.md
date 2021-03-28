@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... `Nothing`
+- 🔭 I’m currently working on ... `RunCom a java windows tool to run useful run commands`
 - 🌱 I’m currently learning ... `Java , Cyber Sec`
 - 👯 I’m looking to collaborate on ... `Web Based Projects`
 - 🤔 I’m looking for help with ... `Nothing at the moment`

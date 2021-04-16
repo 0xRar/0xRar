@@ -7,7 +7,6 @@
 * 🖥 Interested in Cyber Security and Programming.
 
 Here are some ideas to get you started:
-
 - 🌱 I’m currently learning ... `Java , Cyber Sec`
 - 👯 I’m looking to collaborate on ... `(Front-End) Web Projects`
 - 📫 How to reach me: ... `Discord: 0xRar#4432` , [Instagram](https://www.instagram.com/fcv9/) , [Twitter](https://twitter.com/fcv9_q)

@@ -1,6 +1,4 @@
-h1 { color: red }
-
-<h1>Welcome to my profile 😄😄</h1>
+# Welcome to my profile 😄😄
 
 * 👦 I'm Isa or (0xRar)
 * 🖥 Interested in Cyber Security and Programming.

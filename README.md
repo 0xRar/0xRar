@@ -1,5 +1,5 @@
-![0xRar](https://user-images.githubusercontent.com/33517160/112985706-32836e80-9169-11eb-9abd-6e5d6b0388e7.png)
-
+<p align="left"> <a href="https://twitter.com/fcv9_q" target="blank"><img src="https://img.shields.io/twitter/follow/fcv9_q?logo=twitter&style=for-the-badge" alt="0xRar" /></a> </p> 
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/0xRar/0xRar?logo=github&style=for-the-badge">
 
 
 # Welcome to my profile 😄😄
@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... `(Front-End) Web Projects`
 - 📫 How to reach me: ... `Discord: 0xRar#4432`
 - 😄 Pronouns: `He/Him`
-
-<p align="left"> <a href="https://twitter.com/fcv9_q" target="blank"><img src="https://img.shields.io/twitter/follow/fcv9_q?logo=twitter&style=for-the-badge" alt="0xRar" /></a> </p>
 
 
 ![0xRar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xRar&show_icons=true&theme=synthwave)

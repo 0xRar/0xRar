@@ -1,4 +1,4 @@
-# <i><b> Welcome to my profile 😄😄</b></i>
+# <span style="color: purple">Welcome to my profile 😄😄 </span>
 * 👦 I'm Isa or (0xRar)
 * 🖥 Interested in Cyber Security and Programming.
 
@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... `(Front-End) Web Projects`
 - 📫 How to reach me: ... `Discord: 0xRar#4432`
 - 😄 Pronouns: `He/Him`
+
 
 <p align="left"> <a href="https://twitter.com/fcv9_q" target="blank">
 <img src="https://img.shields.io/twitter/follow/fcv9_q?logo=twitter&style=for-the-badge"/></a> </p> 

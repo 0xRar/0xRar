@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... `Discord: 0xRar#4432`
 - 😄 Pronouns: `He/Him`
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/fcv9_q?color=blue&logo=Twitter&logoColor=blue&style=for-the-badge">
+<p align="left"> <a href="https://twitter.com/fcv9_q" target="blank"><img src="https://img.shields.io/twitter/follow/fcv9_q?logo=twitter&style=for-the-badge" alt="0xRar" /></a> </p>
+
 
 ![0xRar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xRar&show_icons=true&theme=synthwave)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xRar&langs_count=5&theme=synthwave)]()

@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 - 🌱 I’m currently learning ... `Java , Cyber Sec`
 - 👯 I’m looking to collaborate on ... `(Front-End) Web Projects`
-- 📫 How to reach me: ... `Discord: 0xRar#4432`
+- 📫 How to reach me: ... `Discord: 0xRar#4432` mailto:RarDev@protonmail.com
 - 😄 Pronouns: `He/Him`
 
 

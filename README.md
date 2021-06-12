@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: `He/Him`
 
 ## Live Projects: 
-https://github.com/theCTFdude/TCD
-
+### [theCTFdude](https://github.com/theCTFdude/TCD)
+<br>
 <p align="left"> <a href="https://twitter.com/fcv9_q" target="blank">
 <img src="https://img.shields.io/twitter/follow/fcv9_q?logo=twitter&style=for-the-badge"/></a> </p> 
 

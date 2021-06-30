@@ -9,8 +9,8 @@
 - 😄 Pronouns: `He/Him`
 
 ## Projects i worked on: 
-### [~ repo: theCTFdude](https://github.com/theCTFdude/TCD) | https://thectfdude.github.io/TCD
-### [~ repo: alexlorei](https://github.com/MrCow3/website) | https://alexlorei.xyz/
+### [~ repo: theCTFdude](https://github.com/theCTFdude/TCD) | Live Preview: https://thectfdude.github.io/TCD
+### [~ repo: alexlorei](https://github.com/MrCow3/website) | Live Preview: https://alexlorei.xyz/
 <!--
 ![0xRar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xRar&show_icons=true&theme=synthwave)
 -->

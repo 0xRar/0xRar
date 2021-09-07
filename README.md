@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning ... `Cyber Sec`
 - 👯 I’m looking to collaborate on ... `(Front-End) Web Projects`
 - 📫 How to reach me: ... `Discord: 0xRar#4432` RarDev@protonmail.com
-- 😄 Pronouns: `He/Him`
 
 ## Projects i worked on: 
 ### [~ repo: theCTFdude](https://github.com/theCTFdude/TCD) | Live Preview: https://thectfdude.github.io/TCD

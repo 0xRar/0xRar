@@ -5,7 +5,7 @@
 * 👦 I'm Isa or (0xRar)
 * 🖥 Interested in Cyber Security and Programming.
 
-- 🌱 I’m currently learning ... `Cyber Sec`
+- 🌱 I’m currently learning ... `Bug Hunting`
 - 👯 I’m looking to collaborate on ... `(Front-End) Web Projects`
 - 📫 How to reach me: ... `Discord: 0xRar#4432` RarDev@protonmail.com
 

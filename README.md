@@ -7,7 +7,7 @@
 <!-- [email]: RarDev@protonmail.com -->
 
 
-# Hi there, I'm Isa - aka [0xRar][website] 😄😄
+# <i>Hi there, I'm Isa - aka [0xRar][website]</i> 😄😄
 ## 🖥(¬‿¬) i code for fun
 * 🖥 Interested in Cyber Security and Programming.
 
@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on ... **(Front-End) Web Projects & Security Related Matters**
 - 📫 How to reach me: ... RarDev@protonmail.com
 ------------------------------------------
-## Connect with me:
+## 🔗 Connect with me:
 [<img align="left" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -26,7 +26,7 @@
 
 ------------------------------------------
 
-## Projects i worked on: 
+## 👷‍♂️ Projects i worked on: 
 ### [~ repo: theCTFdude](https://github.com/theCTFdude/TCD) | Live Preview: https://thectfdude.github.io/TCD
 
 ------------------------------------------

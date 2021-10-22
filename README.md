@@ -12,7 +12,7 @@
 * 🖥 Interested in Cyber Security and Programming.
 
 - 🌱 I’m currently learning ... **Bug Hunting**
-- 👯 I’m looking to collaborate on ... **(Front-End) Web Projects**
+- 👯 I’m looking to collaborate on ... **(Front-End) Web Projects & Security Related Matters**
 - 📫 How to reach me: ... RarDev@protonmail.com
 ------------------------------------------
 ## Connect with me:

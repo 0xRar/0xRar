@@ -29,5 +29,6 @@
 ## Projects i worked on: 
 ### [~ repo: theCTFdude](https://github.com/theCTFdude/TCD) | Live Preview: https://thectfdude.github.io/TCD
 
+------------------------------------------
 
 ![0xRar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xRar&show_icons=true&theme=synthwave)

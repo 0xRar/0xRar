@@ -9,11 +9,11 @@
 
 # <i>Hi there, I'm Isa - aka [0xRar][website]</i> 😄😄
 ## 🖥(¬‿¬) i code for fun
-* 🖥 Interested in Cyber Security and Programming.
+- ### 🖥 Interested in Cyber Security and Programming.
 
-- 🌱 I’m currently learning ... **Bug Hunting**
-- 👯 I’m looking to collaborate on ... **(Front-End) Web Projects & Security Related Matters**
-- 📫 How to reach me: ... RarDev@protonmail.com
+- ### 🌱 I’m currently learning ... **Bug Hunting**
+- ### 👯 I’m looking to collaborate on ... **(Front-End) Web Projects & Security Related Matters**
+- ### 📫 How to reach me: ... RarDev@protonmail.com
 ------------------------------------------
 ## 🔗 Connect with me:
 [<img align="left" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]

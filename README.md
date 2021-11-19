@@ -44,3 +44,19 @@
 ------------------------------------------
 
 ![0xRar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xRar&show_icons=true&theme=synthwave)
+
+<a href="https://github.com/0xRar/TCD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xRar&theme=synthwave&repo=TCD" />
+</a>
+
+<a href="https://github.com/0xRar/CyberTalents-Marathon-CTF">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xRar&theme=synthwave&repo=CyberTalents-Marathon-CTF" />
+</a>
+
+<a href="https://github.com/0xRar/FlandersWriteup">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xRar&theme=synthwave&repo=FlandersWriteup" />
+</a>
+
+<a href="https://github.com/0xRar/Aspire-CTF-2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xRar&theme=synthwave&repo=Aspire-CTF-2021" />
+</a>

@@ -45,8 +45,8 @@
 
 ![0xRar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xRar&show_icons=true&theme=synthwave)
 
-<a href="https://github.com/0xRar/TCD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xRar&theme=synthwave&repo=TCD" />
+<a href="https://github.com/0xRar/KillerQueenCTF-2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xRar&theme=synthwave&repo=KillerQueenCTF-2021" />
 </a>
 
 <a href="https://github.com/0xRar/CyberTalents-Marathon-CTF">

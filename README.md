@@ -13,7 +13,7 @@
 ## 🖥(¬‿¬) i code for fun
 - ### 🖥 Interested in Cyber Security and Programming.
 
-- ### 🌱 I’m currently learning ... **Bug Hunting, Digital Forensics**
+- ### 🌱 I’m currently learning ... **PenTesting, Bug Hunting, Digital Forensics**
 - ### 👯 I’m looking to collaborate on ... **(Front-End) Web Projects & Security Related Matters**
 
 ------------------------------------------

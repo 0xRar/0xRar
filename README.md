@@ -1,5 +1,3 @@
-![city-bg](https://user-images.githubusercontent.com/33517160/140439843-c5f7dad7-8734-4efe-b3ec-598f392f4408.gif)
-
 [website]: http://0xrar.net
 [twitter]: https://twitter.com/fcv9_q
 [instagram]: https://instagram.com/fcv9
@@ -8,7 +6,9 @@
 [discord]: https://discords.com/bio/p/0xRar
 [Wave]: https://user-images.githubusercontent.com/33517160/141124623-1b92425a-078c-4e3e-bc0b-1acd7aed22ec.gif
 
-# <i>Hi there, I'm Isa - aka [0xRar][website]</i> <img align="center" width="60px" src=https://user-images.githubusercontent.com/33517160/141124623-1b92425a-078c-4e3e-bc0b-1acd7aed22ec.gif>
+<h1 align="center">Hi there, I'm Isa - aka 0xRar 
+ <img align="center" width="60px" src=https://user-images.githubusercontent.com/33517160/141124623-1b92425a-078c-4e3e-bc0b-1acd7aed22ec.gif>
+</h1>
 
 ## 🖥(¬‿¬) i code for fun
 - ### 🖥 Interested in Cyber Security and Programming.

@@ -3,7 +3,6 @@
 [instagram]: https://instagram.com/fcv9
 [linkedin]: https://www.linkedin.com/in/isa-ebrahim-33b0b2219/
 [email]: mailto:RarDev@protonmail.com
-[discord]: https://discords.com/bio/p/0xRar
 [Wave]: https://user-images.githubusercontent.com/33517160/141124623-1b92425a-078c-4e3e-bc0b-1acd7aed22ec.gif
 
 <h1 align="center">Hi there, I'm Isa - aka 0xRar 
@@ -22,7 +21,6 @@
 ## 🔗 Connect with me:
 [<img align="left" width="50px" src="https://raw.githubusercontent.com/0xRar/0xRar/43de129066894d5dd904315e87a0080d50c234d6/icons/Globe.svg"/>][website]
 [<img align="left" width="47px" src="https://raw.githubusercontent.com/0xRar/0xRar/15e0b97359d40a6437137f36355edeb8442433d8/icons/Email.svg"/>][email]
-[<img align="left" width="60px" src="https://raw.githubusercontent.com/0xRar/0xRar/37403472baa4965b3faeac19a30b8675ba99fcaf/icons/Discord.svg"/>][discord]
 [<img align="left" width="70px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg"/>][twitter]
 [<img align="left" width="50px" src="https://raw.githubusercontent.com/0xRar/0xRar/43de129066894d5dd904315e87a0080d50c234d6/icons/Instagram.svg"/>][instagram]
 [<img align="left" width="50px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Linkedin.svg"/>][linkedin]

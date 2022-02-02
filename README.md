@@ -34,12 +34,8 @@
 [theCTFdude]: https://thectfdude.github.io/TCD
 [theCTFdude source-code]: https://github.com/thectfdude/TCD 
 
-[0xrar.net]: http://0xrar.net
-[0xrar.net source-code]: https://github.com/0xRar/0xrar.github.io
-
 | Name                | Live Preview      | Source                   | Tech Used                 |
 |---------------------|-------------------|--------------------------|---------------------------|
-| 0xRar Personal Site |  [0xrar.net]      | [0xrar.net source-code]  | Jekyll, Jekyll-WhatATheme |
 | theCTFdude          |  [theCTFdude]     | [theCTFdude source-code] | HTML, CSS, JS, Figma      |
 
 ------------------------------------------

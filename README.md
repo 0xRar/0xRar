@@ -8,7 +8,10 @@
  <img align="center" width="60px" src=https://user-images.githubusercontent.com/33517160/141124623-1b92425a-078c-4e3e-bc0b-1acd7aed22ec.gif>
 </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=0xRar&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=0xRar&label=Profile%20views&color=0e75b6&style=flat"/> 
+ <img alt="GitHub followers" src="https://img.shields.io/github/followers/0xRar">
+</p>
 
 ## 🖥(¬‿¬) i code for fun
 - ### 🖥 Interested in Cyber Security and Programming.

@@ -36,9 +36,12 @@
 [theCTFdude]: https://thectfdude.github.io/TCD
 [theCTFdude source-code]: https://github.com/thectfdude/TCD 
 
+[SecNotes]: https://github.com/0xRar/SecNotes
+
 | Name                | Live Preview      | Source                   | Tech Used                 |
 |---------------------|-------------------|--------------------------|---------------------------|
 | theCTFdude          |  [theCTFdude]     | [theCTFdude source-code] | HTML, CSS, JS, Figma      |
+| SecNotes            |  [SecNotes]       | [SecNotes]               | N/A                       |
 
 ------------------------------------------
 

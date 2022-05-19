@@ -41,7 +41,7 @@
 | Name                | Live Preview      | Source                   | Tech Used                 |
 |---------------------|-------------------|--------------------------|---------------------------|
 | theCTFdude          |  [theCTFdude]     | [theCTFdude source-code] | HTML, CSS, JS, Figma      |
-| SecNotes            |  [SecNotes]       | [SecNotes]               | N/A                       |
+| SecNotes            |  [SecNotes]       | [SecNotes]               | Markdown                  |
 
 ------------------------------------------
 

@@ -5,7 +5,7 @@
 [Wave]: https://user-images.githubusercontent.com/33517160/141124623-1b92425a-078c-4e3e-bc0b-1acd7aed22ec.gif
 
 <h1 align="center">Hi there, I'm Isa - aka 0xRar 
- <img align="center" width="60px" src=https://user-images.githubusercontent.com/33517160/141124623-1b92425a-078c-4e3e-bc0b-1acd7aed22ec.gif>
+ <img align="center" height="60px" width="60px" src=https://user-images.githubusercontent.com/33517160/141124623-1b92425a-078c-4e3e-bc0b-1acd7aed22ec.gif>
 </h1>
 
 <p align="center"> 

@@ -31,7 +31,7 @@
 <br />
 
 ------------------------------------------
-
+<!--
 ## 👷‍♂️ Projects : 
 [theCTFdude]: https://thectfdude.github.io/TCD
 [theCTFdude source-code]: https://github.com/thectfdude/TCD 
@@ -44,6 +44,7 @@
 | SecNotes            |  [SecNotes]       | [SecNotes]               | Markdown                  |
 
 ------------------------------------------
+-->
 
 ![0xRar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xRar&show_icons=true&theme=synthwave)
 <!--

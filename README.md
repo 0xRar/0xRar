@@ -13,11 +13,11 @@
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/0xRar">
 </p>
 
-## 🖥(¬‿¬) i code for fun
-- ### 🖥 Interested in Cyber Security and Programming.
+🖥(¬‿¬) i code for fun
+- 🖥 Interested in **Cyber Security and Programming**
 
-- ### 🌱 I’m currently learning ... **PenTesting, Bug Hunting, Digital Forensics**
-- ### 👯 I’m looking to collaborate on ... **(Front-End) Web Projects & Security Related Matters**
+- 🌱 I’m currently learning ... **PenTesting, Bug Hunting, Digital Forensics**
+- 👯 I’m looking to collaborate on ... **(Front-End) Web Projects & Security Related Matters**
 
 ------------------------------------------
 ## 🔗 Connect with me:

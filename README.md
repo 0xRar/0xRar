@@ -10,7 +10,6 @@
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=0xRar&label=Profile%20views&color=0e75b6&style=flat"/> 
- <img alt="GitHub followers" src="https://img.shields.io/github/followers/0xRar">
 </p>
 
 🖥(¬‿¬) i code for fun

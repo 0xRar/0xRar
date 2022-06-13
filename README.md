@@ -12,11 +12,13 @@
  <img src="https://komarev.com/ghpvc/?username=0xRar&label=Profile%20views&color=0e75b6&style=flat"/> 
 </p>
 
-🖥(¬‿¬) i code for fun
-- 🖥 Interested in **Cyber Security and Programming**
+🖥(¬‿¬) 𝐢 𝐜𝐨𝐝𝐞 𝐟𝐨𝐫 𝐟𝐮𝐧
 
-- 🌱 I’m currently learning ... **PenTesting, Bug Hunting, Digital Forensics**
-- 👯 I’m looking to collaborate on ... **(Front-End) Web Projects & Security Related Matters**
+🖥 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐧𝐝 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
+
+🌱 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 ... 𝐏𝐞𝐧𝐓𝐞𝐬𝐭𝐢𝐧𝐠, 𝐁𝐮𝐠 𝐇𝐮𝐧𝐭𝐢𝐧𝐠, 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐅𝐨𝐫𝐞𝐧𝐬𝐢𝐜𝐬
+
+👯 𝐈’𝐦 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐨𝐧 ... (𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝) 𝐖𝐞𝐛 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 & 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐑𝐞𝐥𝐚𝐭𝐞𝐝
 
 ------------------------------------------
 ## 🔗 Connect with me:

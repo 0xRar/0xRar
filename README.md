@@ -16,7 +16,7 @@
 
 🖥 Interested in Cyber Security and Programming
 
-🌱 I'm Currently Learning ... PenTesting, Bug Hunting, Digital Forensics
+🌱 I'm Currently Learning ... PenTesting, Bug Hunting
 
 👯 I'm looking to collaborate on ... (Front-End) Web Projects & Security Related Projects
 

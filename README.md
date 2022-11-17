@@ -4,19 +4,46 @@
 [email]: mailto:RarDev@protonmail.com
 [Wave]: https://user-images.githubusercontent.com/33517160/141124623-1b92425a-078c-4e3e-bc0b-1acd7aed22ec.gif
 
-<h1 align="center">Hi there, I'm Isa - aka 0xRar 😄</h1>
+<h1 align="center">Hi there, I'm Isa - aka 0xRar 👋😄</h1>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=0xRar&label=Profile%20views&color=0e75b6&style=flat"/> 
 </p>
 
-🖥(¬‿¬) I Code for fun
+<h2>
+ 
+```python
+#!/usr/bin/python
 
-🖥 Interested in Cyber Security and Programming
+def whoami():
+    name = 'Isa'
+    alias = '0xRar'
 
-🌱 I'm Currently Learning ... PenTesting, Bug Hunting
+    # 🖥(¬‿¬) I Code for fun
 
-👯 I'm looking to collaborate on ... (Front-End) Web Projects & Security Related Projects
+    interests = [
+        'Cyber Security (Bug Hunting, PenTesting, CTFs)',
+        'Programming'
+    ]
+
+    print(f'''
+    Name: {name}
+    Known as: {alias}
+    Interests: {interests[0]} & {interests[1]}
+    ''')
+
+if __name__ == "__main__":
+    whoami()
+```
+ 
+```yaml
+👨‍💻 
+Name: Isa
+Known as: 0xRar
+Interests: Cyber Security (Bug Hunting, PenTesting, CTFs) & Programming
+```
+ 
+</h2>
 
 ------------------------------------------
 ## 🔗 Connect with me:
@@ -45,9 +72,14 @@
 ------------------------------------------
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=0xRar&show_icons=true&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xRar&theme=tokyonight) 
-
+<details>
+ <summary><h2>📜Github Stats</h2></summary>
+  <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=0xRar&show_icons=true&theme=tokyonight&" width="700px" align="center">
+      <br><br>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xRar&theme=tokyonight" width="700px" align="center">
+  </p>
+</details>
 
 <!--
 <a href="https://github.com/0xRar/KillerQueenCTF-2021">

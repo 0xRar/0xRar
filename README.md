@@ -10,7 +10,6 @@
  <img src="https://komarev.com/ghpvc/?username=0xRar&label=Profile%20views&color=0e75b6&style=flat"/> 
 </p>
 
-<h2>
  
 ```python
 #!/usr/bin/python
@@ -43,7 +42,6 @@ Known as: 0xRar
 Interests: Cyber Security (Bug Hunting, PenTesting, CTFs) & Programming
 ```
  
-</h2>
 
 ------------------------------------------
 ## 🔗 Connect with me:

@@ -11,7 +11,7 @@
 </p>
 
 
-<img align="left" height="180" src="https://user-images.githubusercontent.com/33517160/217376118-ca46862b-4369-4ccd-8e06-c86a7b58698e.gif">
+<img align="left" height="170" src="https://user-images.githubusercontent.com/33517160/217376118-ca46862b-4369-4ccd-8e06-c86a7b58698e.gif">
 
 ```diff
 @@ Known as: 0xRar @@

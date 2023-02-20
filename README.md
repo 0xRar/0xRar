@@ -42,11 +42,11 @@
   <tr>
     <td>
       <center>
-      <img src="https://github-readme-stats.vercel.app/api?username=0xRar&show_icons=true&theme=tokyonight" width="380">
+      <img src="https://github-readme-stats.vercel.app/api?username=0xRar&show_icons=true&theme=tokyonight" width="500">
     </td>
     <br>
     <td>
       <center>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRar&layout=compact&theme=tokyonight" width="380">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRar&layout=compact&theme=tokyonight" width="450">
     </td>
 </table>

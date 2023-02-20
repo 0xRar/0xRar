@@ -34,7 +34,7 @@
 <br />
 <br />
 
-<h2>📜Github Stats</h2>
+<h2>📜Github Stats:</h2>
 <table>
   <tr>
     <td>

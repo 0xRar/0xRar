@@ -32,11 +32,8 @@
 
 <br />
 <br />
+<br />
 
-
-
-<!-- <details> -->
-<!--  <summary><h2>📜Github Stats</h2></summary> -->
 <h2>📜Github Stats</h2>
 <table>
   <tr>

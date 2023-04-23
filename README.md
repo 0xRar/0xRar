@@ -16,7 +16,7 @@
 ```diff
 @@ Known as: 0xRar @@
 @@ Interests: Cyber Security (Bug Hunting, PenTesting, CTFs) & Programming @@
-@@ Learning: Nim Lang @@
+@@ Learning: Rust Lang @@
 @@ Languages: HTML, CSS, Python, Java(not anymore) @@ 
 
 !                                                                                  

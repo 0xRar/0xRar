@@ -10,7 +10,7 @@
  <img src="https://komarev.com/ghpvc/?username=0xRar&label=Profile%20views&color=0e75b6&style=flat"/> 
 </p>
 
-<img align="left" height="170" src="https://user-images.githubusercontent.com/33517160/217376118-ca46862b-4369-4ccd-8e06-c86a7b58698e.gif">
+<img align="left" height="170" src="https://github.com/0xRar/0xRar/assets/33517160/2aeb1446-f88f-4660-ac5a-7ae6c86024f6">
 
 
 ```diff

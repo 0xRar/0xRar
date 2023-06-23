@@ -16,7 +16,7 @@
 ```diff
 @@ Known as: 0xRar @@
 @@ Interests: Cyber Security (Bug Hunting, PenTesting, CTFs) & Programming @@
-@@ Learning: Rust Lang @@
+@@ Learning: C/C++ @@
 @@ Languages: HTML, CSS, Python, Java(not anymore) @@ 
 
 !                                                                                  

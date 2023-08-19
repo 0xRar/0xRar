@@ -1,50 +1,84 @@
-[website]: http://0xrar.net
-[twitter]: https://twitter.com/fcv9_q
-[instagram]: https://instagram.com/fcv9
-[email]: mailto:RarDev@protonmail.com
-[Wave]: https://user-images.githubusercontent.com/33517160/141124623-1b92425a-078c-4e3e-bc0b-1acd7aed22ec.gif
+<h1 align="left">Hi there, I'm Isa a dark arts tinkerer 👋😄</h1>
 
-<h1 align="center">Hi there, I'm Isa a dark arts tinkerer 👋😄</h1>
+###
 
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=0xRar&label=Profile%20views&color=0e75b6&style=flat"/>
-  <br><br>
-<!--  <img align="center" src="https://github.com/0xRar/0xRar/assets/33517160/2aeb1446-f88f-4660-ac5a-7ae6c86024f6">
- <hr> -->
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/0xRar/count.svg?"  />
+</div>
 
+###
 
-```diff
-@@ Known as: 0xRar @@
-@@ Interests: Cyber Security (Bug Hunting, PenTesting, CTFs) & Programming @@
-@@ Learning: C/C++ @@
-@@ Languages: HTML, CSS, Python, Java(not anymore) @@ 
+<h2 align="left">👨‍💻 About Me</h2>
 
-!                                                                                  
-!                                                                                  
-```
-<br /> 
+###
 
-## 🔗 Connect with me:
-[<img align="left" width="50px" src="https://raw.githubusercontent.com/0xRar/0xRar/43de129066894d5dd904315e87a0080d50c234d6/icons/Globe.svg"/>][website]
-[<img align="left" width="47px" src="https://raw.githubusercontent.com/0xRar/0xRar/15e0b97359d40a6437137f36355edeb8442433d8/icons/Email.svg"/>][email]
-[<img align="left" width="70px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg"/>][twitter]
-[<img align="left" width="50px" src="https://raw.githubusercontent.com/0xRar/0xRar/43de129066894d5dd904315e87a0080d50c234d6/icons/Instagram.svg"/>][instagram]
+<p align="left">✨Known as: 0xRar<br>🧩Interests: Cyber Security (Bug Hunting, PenTesting, CTFs) & Programming<br>📚 Currently Learning: C/C++</p>
 
-<br />
-<br />
-<br />
+###
 
-<h2>📜Github Stats:</h2>
-<table>
-  <tr>
-    <td>
-      <center>
-      <img src="https://github-readme-stats.vercel.app/api?username=0xRar&show_icons=true&theme=tokyonight" width="500">
-    </td>
-    <br>
-    <td>
-      <center>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRar&layout=compact&theme=tokyonight" width="450">
-    </td>
-</table>
+<h2 align="left">📱 Socials</h2>
+
+###
+
+<div align="left">
+  <a href="https://twitter.com/fcv9_q" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://instagram.com/fcv9" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/isa-ebrahim-33b0b2219/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/641301095229947904" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/0xRar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">🛠 Languages & Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h2 align="left">🔥 Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xRar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xRar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###

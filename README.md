@@ -1,23 +1,11 @@
 <h2 align="left">Hi there, I'm Isa a dark arts tinkerer 👋😄</h2>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/0xRar/count.svg?"  />
-</div>
-
-###
-
 ### `>`&emsp; 👨‍💻 About Me
 
-###
-
-<p align="left">
-  ✨ Known as: 0xRar <br>
-  🚩 CTF Player: <a href="https://github.com/bER4bb1ts">@bER4bb1ts</a> <br>
-  🧩 Interests: Cyber Security (Bug Hunting, PenTesting, CTFs) & Programming <br>
-  📚 Currently Learning: C/C++ <br>
-</p>
+- ✨ Known as: 0xRar <br>
+- 🚩 CTF Player: <a href="https://github.com/bER4bb1ts">@bER4bb1ts</a> <br>
+- 🧩 Interests: Cyber Security (Bug Hunting, PenTesting, CTFs) & Programming <br>
+- 📚 Currently Learning: C/C++ <br>
 
 ###
 

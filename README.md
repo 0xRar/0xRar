@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Isa a dark arts tinkerer 👋😄</h1>
+<h2 align="left">Hi there, I'm Isa a dark arts tinkerer 👋😄</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">👨‍💻 About Me</h2>
+### `>`&emsp; 👨‍💻 About Me
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">📱 Socials</h2>
+### `>`&emsp; 📱 Socials
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">🛠 Languages & Tools</h2>
+### `>`&emsp; 🛠 Languages & Tools
 
 ###
 
@@ -80,7 +80,7 @@
 
 ###
 
-<h2 align="left">🔥 Stats</h2>
+### `>`&emsp; 🔥 Stats
 
 ###
 

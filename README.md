@@ -5,7 +5,7 @@
 - ✨ Known as: 0xRar <br>
 - 🚩 CTF Player: <a href="https://github.com/bER4bb1ts">@bER4bb1ts</a> <br>
 - 🧩 Interests: Cyber Security (Bug Hunting, PenTesting, CTFs) & Programming <br>
-- 📚 Currently Learning: C/C++ <br>
+- 📚 Currently Learning: C/C++ , Nim <br>
 
 ###
 

@@ -43,6 +43,8 @@
 <div align="left">
   <a href="https://www.python.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/> </a>
   <img width="12" />
+  <a href="https://nim-lang.org/"> <img src="https://raw.githubusercontent.com/0xRar/0xRar/06e85c4103554db334d2c1ae3edfb9531671afa2/icons/Nim.svg" height="34" alt="nim logo"/> </a>
+  <img width="12" />
   <a href="https://www.java.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/> </a>
   <img width="12" />
   <a href="https://cplusplus.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/> </a>

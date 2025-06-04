@@ -78,8 +78,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=0xRar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xRar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; background-repeat: no-repeat; width: 130vw; opacity: 0.5; background: url('https://github.com/0xRar/0xRar/blob/main/be.gif?raw=true');]{x0000}$}

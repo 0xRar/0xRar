@@ -12,7 +12,7 @@
 ### `>`&emsp; 📱 Socials
 
 ###
-
+<!--
 <div align="left">
   <a href="https://0xrar.net/" target="_blank">
     <img src="https://raw.githubusercontent.com/0xRar/0xRar/main/icons/Globe.svg" width="40" height="40" alt="www logo"  />
@@ -67,6 +67,7 @@
   <img width="12" />
   <a href="https://www.figma.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/> </a>
 </div>
+-->
 
 ###
 

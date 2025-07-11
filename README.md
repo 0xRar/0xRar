@@ -12,7 +12,7 @@
 ### `>`&emsp; 📱 Socials
 
 ###
-<!--
+
 <div align="left">
   <a href="https://0xrar.net/" target="_blank">
     <img src="https://raw.githubusercontent.com/0xRar/0xRar/main/icons/Globe.svg" width="40" height="40" alt="www logo"  />
@@ -35,7 +35,7 @@
 </div>
 
 ###
-
+<!--
 ### `>`&emsp; 🛠 Languages & Tools
 
 ###
